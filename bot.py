@@ -6,6 +6,7 @@ import subprocess
 from aiogram import Bot, Dispatcher, executor, types
 from keyboards import client_kb, accept_kb, gan_kb
 from io_file import *
+
 import configparser
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
