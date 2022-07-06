@@ -20,4 +20,8 @@
   ## Примеры работы 
   Примеры работы программы можно посмотреть на [Drive Google](https://drive.google.com/drive/folders/1Yzz3Se4_b5pn7ZC1vithoWEbI3z7RE8P?usp=sharing)
   
-  ![Пример работы](https://drive.google.com/drive/folders/1Yzz3Se4_b5pn7ZC1vithoWEbI3z7RE8P)
+  ![Добавление контента](https://github.com/0xABBE/Telegram_BOTv0.01/tree/main/images_readme/img1.png)
+  
+   ![Добавление стиля](https://github.com/0xABBE/Telegram_BOTv0.01/tree/main/images_readme/img2.png)
+   
+   ![Добавление VGG19 и получение итогового изображения](https://github.com/0xABBE/Telegram_BOTv0.01/tree/main/images_readme/img2.png)
