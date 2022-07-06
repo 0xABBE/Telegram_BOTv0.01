@@ -15,7 +15,7 @@
   [Telegram] \
   token=123456789abcdefg
   
-  После добавления файла, запустить бота.
+  После добавления файла, запустить bot.py.
   
   ## Примеры работы 
   Примеры работы программы можно посмотреть на [Drive Google](https://drive.google.com/drive/folders/1Yzz3Se4_b5pn7ZC1vithoWEbI3z7RE8P?usp=sharing)
