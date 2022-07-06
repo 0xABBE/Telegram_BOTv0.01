@@ -20,4 +20,4 @@
   ## Примеры работы 
   Примеры работы программы можно посмотреть на [Drive Google](https://drive.google.com/drive/folders/1Yzz3Se4_b5pn7ZC1vithoWEbI3z7RE8P?usp=sharing)
   
-  ![](https://drive.google.com/file/d/1PhIjErnH6hWNVDAlU0H1MNU47XViuP3u/view?usp=sharing)
+  ![Пример работы](https://drive.google.com/drive/folders/1Yzz3Se4_b5pn7ZC1vithoWEbI3z7RE8P)
