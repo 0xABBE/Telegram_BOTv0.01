@@ -25,3 +25,13 @@
    ![Добавление стиля](https://github.com/0xABBE/Telegram_BOTv0.01/tree/main/images_readme/img2.png)
    
    ![Добавление VGG19 и получение итогового изображения](https://github.com/0xABBE/Telegram_BOTv0.01/tree/main/images_readme/img2.png)
+   
+  ## Cтруктура рабочей директории
+
+1)CycleGan - содержит все файлы для работы с CycleGan и Pix2Pix, взятые с [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). \
+2)VGG19_Style_Transfer - содержит файлы модели переноса стиля на основе предобученной на Imagnet модели VGG19. \
+3)keyboards - содержит файлы для маркапов бота. \
+4)tmp - содержит временные файлы для каждого из пользователей (в своей папке), которые после завершения работы модели удаляются. \
+5)bot.py - точка входа в программу и набор хендлеров бота. \
+6)io_file - файл с функциями для загрузки, кадрирования и выгрузки картинок. \
+7)requirements - список всех используемых зависимостей.
